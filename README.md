@@ -3,7 +3,7 @@
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=125&color=64339c&reversal=true&section=header&animation=fadeIn&descAlign=100"/>
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=64339C&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Luiz+Pedro!;I'm+20+years+old!;Studying+ADS+at+Estácio!;Full-Stack+Dev+in+progress!;Welcome!+:%29)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=64339C&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Luiz+Pedro!;I'm+21+years+old!;Studying+ADS+at+Estácio!;Full-Stack+Dev+in+progress!;Welcome!+:%29)
 
 
 **`Desenvolvedor Front-end`**

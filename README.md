@@ -21,7 +21,7 @@ Me chamo Luiz Pedro, sou do Rio de Janeiro, RJ, e estou cursando Análise e Dese
 
 <div align="center">
   <h2>Contact</h2>
-  <a href="www.linkedin.com/in/luiz-pedro-santos-araújo-9bb052209" target="_blank">
+  <a href="https://www.linkedin.com/in/luiz-pedro-santos-ara%C3%BAjo-9bb052209/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" alt="linkedin" />
   </a>
   

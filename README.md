@@ -5,7 +5,7 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=64339C&size=35&center=true&vCenter=true&width=1000&lines=Hi,+I'm+Luiz+Pedro!;I'm+21+years+old!;Studying+ADS+at+Estácio!;Full-Stack+Dev+in+progress!;Welcome!+:%29)
 
 
-**`Desenvolvedor Front-end`**
+**`Desenvolvedor Back-end`**
 
 Me chamo Luiz Pedro, sou do Rio de Janeiro, RJ, e estou cursando Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá. Também possuo formação técnica em Informática e estou aprimorando minhas habilidades no curso Programador Full Stack pelo Senac.
 

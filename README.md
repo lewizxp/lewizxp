@@ -87,7 +87,7 @@ const luizPedro = {
 ---
 
 <div align="center">
-  <img src="COLE_AQUI_O_LINK_DA_IMAGEM_DO_FRIEREN" width="280px" alt="Frieren" style="border-radius: 12px;"/>
+  <iframe src="https://assets.pinterest.com/ext/embed.html?id=897834875755723463" height="294" width="345" frameborder="0" scrolling="no" ></iframe>
   <br/><br/>
   <sub><i>"O tempo passa, mas o esforço permanece."</i></sub>
 </div>

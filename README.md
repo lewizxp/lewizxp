@@ -87,7 +87,8 @@ const luizPedro = {
 ---
 
 <div align="center">
-  <iframe src="https://github.com/lewizxp/lewizxp/issues/1#issue-4380407481" height="294" width="345" frameborder="0" scrolling="no" ></iframe>
+    <img src="https://github.com/lewizxp/lewizxp/issues/1#issue-4380407481" width="280px" alt="Frieren" style="border-radius: 12px;"/>
+ 
   <br/><br/>
   <sub><i>"O tempo passa, mas o esforço permanece."</i></sub>
 </div>

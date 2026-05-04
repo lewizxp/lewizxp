@@ -18,6 +18,8 @@
 
 ## 👨🏾‍💻 Sobre mim
 
+<img align="right" src="https://github.com/user-attachments/assets/80ed3ee9-d99b-4413-bdb5-c1deb404797d" width="200px" style="border-radius: 12px; margin-left: 16px;"/>
+
 ```javascript
 const luizPedro = {
   localização:   "Rio de Janeiro, RJ 🇧🇷",
@@ -28,6 +30,8 @@ const luizPedro = {
   curiosidade:   "Fã de anime — especialmente Frieren 🧝‍♀️",
 };
 ```
+
+<br clear="right"/>
 
 ---
 
@@ -87,8 +91,7 @@ const luizPedro = {
 ---
 
 <div align="center">
-    <img src="https://github.com/lewizxp/lewizxp/issues/1#issue-4380407481" width="280px" alt="Frieren" style="border-radius: 12px;"/>
- 
+  <img src="COLE_AQUI_O_LINK_DA_IMAGEM_DO_FRIEREN" width="280px" alt="Frieren" style="border-radius: 12px;"/>
   <br/><br/>
   <sub><i>"O tempo passa, mas o esforço permanece."</i></sub>
 </div>

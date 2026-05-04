@@ -91,7 +91,7 @@ const luizPedro = {
 ---
 
 <div align="center">
-  <img src="COLE_AQUI_O_LINK_DA_IMAGEM_DO_FRIEREN" width="280px" alt="Frieren" style="border-radius: 12px;"/>
+  <img src="https://github.com/user-attachments/assets/80f3b267-cf59-4fab-a073-8980b40dbcb0" width="280px" alt="Frieren" style="border-radius: 12px;"/>
   <br/><br/>
   <sub><i>"O tempo passa, mas o esforço permanece."</i></sub>
 </div>

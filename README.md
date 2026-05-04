@@ -87,7 +87,7 @@ const luizPedro = {
 ---
 
 <div align="center">
-  <iframe src="https://assets.pinterest.com/ext/embed.html?id=897834875755723463" height="294" width="345" frameborder="0" scrolling="no" ></iframe>
+  <iframe src="https://github.com/lewizxp/lewizxp/issues/1#issue-4380407481" height="294" width="345" frameborder="0" scrolling="no" ></iframe>
   <br/><br/>
   <sub><i>"O tempo passa, mas o esforço permanece."</i></sub>
 </div>

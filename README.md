@@ -16,7 +16,7 @@
 
 ## 👨🏾‍💻 Sobre mim
 
-<img align="right" src="https://github.com/user-attachments/assets/07e3d5a4-d1d3-484c-aaad-5d8d9a876fd6" width="150px"/>
+<img align="right" src="https://github.com/user-attachments/assets/4858d92e-ff9f-44dd-a59a-b01a00b263eb" width="300px" style="border-radius:8px"/>
 
 ```javascript
 const luizPedro = {

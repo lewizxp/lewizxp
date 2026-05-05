@@ -11,7 +11,8 @@
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-pedro-santos-ara%C3%BAjo-9bb052209/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:SEU_EMAIL_AQUI)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luizpedrosantos297@gmail.com)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://portifolio-lp-nine.vercel.app/)
 [![TotalPrevi](https://img.shields.io/badge/Projeto%20Live-6e40c9?style=for-the-badge&logo=vercel&logoColor=white)](https://www.totalprevi.com.br/)
 
 </div>
@@ -26,7 +27,8 @@ const luizPedro = {
   formação:     "ADS @ Estácio + Técnico em Informática",
   estudando:    "Full Stack @ Senac",
   foco:         "Back-end Development",
-  buscando:     "Primeira oportunidade como dev",
+  status:       "Trabalhando como dev 🚀",
+  portfólio:    "portifolio-lp-nine.vercel.app",
   anime:        "Frieren: Beyond Journey's End",
 };
 ```
@@ -79,9 +81,9 @@ Plataforma web para consultoria especializada em benefícios da Previdência Soc
 
 ## Atualmente
 
+- Trabalhando na DevWest
 - Aprofundando em **Java**, **Spring Boot**, **Node.js** e **TypeScript**
-- Buscando minha **primeira oportunidade** como desenvolvedor
-- Construindo novos projetos para o portfólio
+- Construindo novos projetos para o [portfólio](https://portifolio-lp-nine.vercel.app/)
 
 ---
 

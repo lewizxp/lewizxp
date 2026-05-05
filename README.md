@@ -2,12 +2,15 @@
   <img src="https://github.com/user-attachments/assets/4858d92e-ff9f-44dd-a59a-b01a00b263eb" width="100%"/>
 </div>
 
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117&section=header&reversal=true"/>
+
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/07e3d5a4-d1d3-484c-aaad-5d8d9a876fd6" width="120px" style="border-radius:50%; margin-top:-40px; border: 3px solid #64339c;"/>
+  <img src="https://github.com/user-attachments/assets/07e3d5a4-d1d3-484c-aaad-5d8d9a876fd6" width="110px" style="border-radius:50%; border: 3px solid #64339c; margin-top:-20px"/>
+  <h2>Luiz Pedro Santos</h2>
 </div>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=9b59d1&size=22&center=true&vCenter=true&width=1000&pause=1000&lines=Hi,+I'm+Luiz+Pedro!+👋🏾;Full-Stack+Dev+in+progress...;Always+learning,+always+building!;葬送のフリーレン+⭐"/>
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=9b59d1&size=20&center=true&vCenter=true&width=1000&pause=1000&lines=Back-end+Developer+in+progress...;Estudando+Full+Stack+%40+Senac;Sempre+aprendendo,+sempre+construindo!;葬送のフリーレン+⭐"/>
 </p>
 
 <div align="center">
@@ -90,7 +93,7 @@ const luizPedro = {
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/80f3b267-cf59-4fab-a073-8980b40dbcb0" width="180px" style="border-radius:16px"/>
+<img src="https://github.com/user-attachments/assets/80f3b267-cf59-4fab-a073-8980b40dbcb0" width="180px" style="border-radius:16px; opacity:0.85"/>
 
 <br/><br/>
 

@@ -37,7 +37,7 @@ const luizPedro = {
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind" /><br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,vue,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=nodejs,vue,java,spring,ts,git,vscode" />
 </p>
 
 ---
@@ -79,7 +79,7 @@ Plataforma web para consultoria especializada em benefícios da Previdência Soc
 
 ## Atualmente
 
-- Aprofundando em **Node.js** e **TypeScript**
+- Aprofundando em **Java**, **Spring Boot**, **Node.js** e **TypeScript**
 - Buscando minha **primeira oportunidade** como desenvolvedor
 - Construindo novos projetos para o portfólio
 

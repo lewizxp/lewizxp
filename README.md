@@ -1,10 +1,4 @@
-<div align="center">
-
-<img src="https://github.com/user-attachments/assets/80f3b267-cf59-4fab-a073-8980b40dbcb0" width="100%" style="max-height:320px; object-fit:cover; object-position: center top; opacity:0.7;"/>
-
-</div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0d1117&reversal=false&section=header&animation=fadeIn&text=Luiz%20Pedro%20Santos&fontColor=c9a8f0&fontSize=38&fontAlignY=55&desc=Back-end%20Developer%20in%20progress%20%7C%20Rio%20de%20Janeiro%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=75&descSize=14&descColor=8b6bbf"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:2d1b4e,100:64339c&reversal=false&section=header&animation=fadeIn&text=Luiz%20Pedro%20Santos&fontColor=c9a8f0&fontSize=38&fontAlignY=55&desc=Back-end%20Developer%20in%20progress%20%7C%20Rio%20de%20Janeiro%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=75&descSize=14&descColor=8b6bbf"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=9b59d1&size=22&center=true&vCenter=true&width=1000&pause=1000&lines=Hi,+I'm+Luiz+Pedro!+👋🏾;Full-Stack+Dev+in+progress...;Always+learning,+always+building!;葬送のフリーレン+⭐"/>
@@ -22,7 +16,7 @@
 
 ## 👨🏾‍💻 Sobre mim
 
-<img align="right" src="https://github.com/user-attachments/assets/07e3d5a4-d1d3-484c-aaad-5d8d9a876fd6" width="160px"/>
+<img align="right" src="https://github.com/user-attachments/assets/07e3d5a4-d1d3-484c-aaad-5d8d9a876fd6" width="150px"/>
 
 ```javascript
 const luizPedro = {
@@ -94,7 +88,7 @@ const luizPedro = {
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/80f3b267-cf59-4fab-a073-8980b40dbcb0" width="220px" style="border-radius: 16px; opacity: 0.85;"/>
+<img src="https://github.com/user-attachments/assets/80f3b267-cf59-4fab-a073-8980b40dbcb0" width="180px" style="border-radius:16px"/>
 
 <br/><br/>
 
@@ -102,10 +96,9 @@ const luizPedro = {
 
 <br/>
 
-**Obrigado por visitar meu perfil! 🚀**
-<br/>
+**Obrigado por visitar meu perfil! 🚀**<br/>
 <sub>Se quiser trocar uma ideia, é só me chamar no LinkedIn.</sub>
 
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0d1117&reversal=false&section=footer&animation=fadeIn"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:64339c,100:0d1117&reversal=false&section=footer&animation=fadeIn"/>

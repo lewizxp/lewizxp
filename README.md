@@ -1,12 +1,7 @@
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/4858d92e-ff9f-44dd-a59a-b01a00b263eb" width="100%"/>
-</div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0d1117&section=header&reversal=true"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:2d1b4e,100:64339c&section=header&animation=fadeIn&text=Luiz%20Pedro%20Santos&fontColor=c9a8f0&fontSize=38&fontAlignY=55&desc=Back-end%20Developer%20in%20progress%20%7C%20Rio%20de%20Janeiro%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=75&descSize=14&descColor=8b6bbf"/>
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/07e3d5a4-d1d3-484c-aaad-5d8d9a876fd6" width="110px" style="border-radius:50%; border: 3px solid #64339c; margin-top:-20px"/>
-  <h2>Luiz Pedro Santos</h2>
+  <img src="https://github.com/user-attachments/assets/07e3d5a4-d1d3-484c-aaad-5d8d9a876fd6" width="110px" style="border-radius:50%; border: 3px solid #64339c;"/>
 </div>
 
 <p align="center">
@@ -93,7 +88,8 @@ const luizPedro = {
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/80f3b267-cf59-4fab-a073-8980b40dbcb0" width="180px" style="border-radius:16px; opacity:0.85"/>
+**Obrigado por visitar meu perfil! 🚀**<br/>
+<sub>Se quiser trocar uma ideia, é só me chamar no LinkedIn.</sub>
 
 <br/><br/>
 
@@ -101,9 +97,6 @@ const luizPedro = {
 
 <br/>
 
-**Obrigado por visitar meu perfil! 🚀**<br/>
-<sub>Se quiser trocar uma ideia, é só me chamar no LinkedIn.</sub>
+<img src="https://github.com/user-attachments/assets/4858d92e-ff9f-44dd-a59a-b01a00b263eb" width="100%"/>
 
 </div>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:64339c,100:0d1117&reversal=false&section=footer&animation=fadeIn"/>

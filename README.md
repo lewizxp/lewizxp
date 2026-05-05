@@ -1,4 +1,10 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:0d1117,50:2d1b4e,100:64339c&reversal=false&section=header&animation=fadeIn&text=Luiz%20Pedro%20Santos&fontColor=c9a8f0&fontSize=38&fontAlignY=55&desc=Back-end%20Developer%20in%20progress%20%7C%20Rio%20de%20Janeiro%20%F0%9F%87%A7%F0%9F%87%B7&descAlignY=75&descSize=14&descColor=8b6bbf"/>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/4858d92e-ff9f-44dd-a59a-b01a00b263eb" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/07e3d5a4-d1d3-484c-aaad-5d8d9a876fd6" width="120px" style="border-radius:50%; margin-top:-40px; border: 3px solid #64339c;"/>
+</div>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?font=Anek+Devanagari&weight=600&color=9b59d1&size=22&center=true&vCenter=true&width=1000&pause=1000&lines=Hi,+I'm+Luiz+Pedro!+👋🏾;Full-Stack+Dev+in+progress...;Always+learning,+always+building!;葬送のフリーレン+⭐"/>
@@ -16,8 +22,6 @@
 
 ## 👨🏾‍💻 Sobre mim
 
-<img align="right" src="https://github.com/user-attachments/assets/4858d92e-ff9f-44dd-a59a-b01a00b263eb" width="300px" style="border-radius:8px"/>
-
 ```javascript
 const luizPedro = {
   localização:  "Rio de Janeiro, RJ 🇧🇷",
@@ -28,8 +32,6 @@ const luizPedro = {
   anime:        "Frieren: Beyond Journey's End ⭐",
 };
 ```
-
-<br clear="right"/>
 
 ---
 
@@ -88,7 +90,7 @@ const luizPedro = {
 
 <div align="center">
 
-<img src="https://github.com/user-attachments/assets/4858d92e-ff9f-44dd-a59a-b01a00b263eb" width="380px" style="border-radius:12px"/>
+<img src="https://github.com/user-attachments/assets/80f3b267-cf59-4fab-a073-8980b40dbcb0" width="180px" style="border-radius:16px"/>
 
 <br/><br/>
 
